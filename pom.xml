@@ -47,7 +47,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>Main</mainClass>
+                            <mainClass>org.example.Main</mainClass>
                             <name>Qorovul_Bot</name>
                         </program>
                     </programs>
