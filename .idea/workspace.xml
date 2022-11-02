@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17b7bf70-8dd0-4a8d-9dc6-8a0e9e0d7d4d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PersonalChatManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonalChatManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +49,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -88,7 +86,7 @@
       <workItem from="1662310149465" duration="26000" />
       <workItem from="1662468634970" duration="6244000" />
       <workItem from="1667137668060" duration="4383000" />
-      <workItem from="1667403348340" duration="315000" />
+      <workItem from="1667403348340" duration="1146000" />
     </task>
     <servers />
   </component>
