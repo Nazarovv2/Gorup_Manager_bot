@@ -30,11 +30,9 @@ public class PersonalChatManager {
 
         SendMessage sendMessage = new SendMessage();
         sendMessage.setChatId(message.getChatId());
-        sendMessage.setText("""
-                \u200ESalom\uD83D\uDC4B\s
-                Man guruppani boshqarishda yordam beraman \uD83D\uDC68\uD83C\uDFFB\u200D✈\s
-                Man ishlashim uchun guruhizga qoshib admin berishiz kerak\uD83D\uDE04
-                 ⚠️Botdan foydalanish uchun qollanma: /help""");
+        sendMessage.setText("\u200ESalom Man guruppani boshqarishda yordam beraman  "
+                        + " Man ishlashim uchun guruhizga qoshib admin berishiz kerak\uD83D\uDE04"+
+                "⚠️Botdan foydalanish uchun qollanma: /help ");
 
         InlineKeyboardButton inlineKeyboardButton = new InlineKeyboardButton();
         inlineKeyboardButton.setText("Guruhga qoshish+");
